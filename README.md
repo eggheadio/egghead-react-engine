@@ -1,4 +1,1 @@
 # react-engine
-
-`npm install`
-`
